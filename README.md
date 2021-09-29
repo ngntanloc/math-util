@@ -6,3 +6,7 @@
 * .gitignore file and README.md file to manage the content of this repo
 * ...
 
+### Screen shot
+![JUnit with TDD](https://github.com/thor-coderr/math-util/blob/main/images/math-util-intro.png)
+
+© 2021 Tấn.Lộc | fb/ngntanlocc
