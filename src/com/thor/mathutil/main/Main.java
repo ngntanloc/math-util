@@ -15,7 +15,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        MathUtil.getFactorial(-5);
+//        MathUtil.getFactorial(-5);
         // test manual, đưa data, gọi hàm check, so sánh expected vs actual
         // tất cả, đặc biệt phần cmp là phải bằng mắt, cho từng trường hợp, từng tình huống...
 
